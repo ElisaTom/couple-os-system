@@ -1,0 +1,16 @@
+# Ignora file Python compilati
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignora l'ambiente virtuale
+venv/
+.env
+
+# Ignora i segreti di Streamlit (IMPORTANTE)
+.streamlit/secrets.toml
+.streamlit/secrets.json
+
+# File di sistema Mac/Windows
+.DS_Store
+Thumbs.db

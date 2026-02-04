@@ -3,5 +3,5 @@ pandas
 numpy
 scikit-learn
 plotly
-streamlit-gsheets
+st-gsheets-connection
 streamlit-calendar
